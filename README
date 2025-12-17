@@ -1,0 +1,21 @@
+# AI Lead Scoring Agent (Biotech BD Demo)
+
+This project demonstrates an AI-driven business development web agent that:
+- Identifies relevant biotech decision-makers
+- Enriches leads with role, location, funding, and scientific intent
+- Ranks leads using a Propensity-to-Buy score (0–100)
+
+#Focus Area
+3D in-vitro models, toxicology, and safety assessment.
+
+# Tech Stack
+- Python
+- Streamlit
+- Pandas
+
+### Output
+- Exportable ranked leads (CSV / Excel)
+- Searchable BD dashboard
+
+### Notes
+Data in this demo is synthetic and simulates LinkedIn, PubMed, and funding intelligence.
